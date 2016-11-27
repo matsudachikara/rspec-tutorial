@@ -9,7 +9,7 @@
     <envs>
       <env name="RAILS_ENV" value="test" />
     </envs>
-    <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+    <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
     <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
     <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
       <COVERAGE_PATTERN ENABLED="true">
