@@ -41,7 +41,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap-sass', '~> 3.1.1'
 
 group :development, :test do
-  gem "rspec-rails", "~> 3.1.0"
+  gem "json", "~> 1.8.3"
+  gem "rspec-rails", "~> 3.4.0"
   gem "factory_girl_rails", "~> 4.4.1"
 end
 
